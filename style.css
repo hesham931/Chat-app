@@ -208,14 +208,14 @@ img[alt = "dog3"]{
         width:50%;
         height:100%;
         position:relative;
-        top:300px;
+        top:200px;
         left:200px;
     }
     div.header{
-        width:40%;
+        width:60%;
     }
     .phone{
-        width:200%;
+        width:150%;
     }
     .name{
         width:70%
